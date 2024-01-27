@@ -21,7 +21,7 @@ Website Information
     Domain Name: http://mateusztomczyk.pl
     Web Server Software: [Apache]
     Database: [mysql]
-    CMS (if applicable): [WordPress]
+    CMS: [WordPress]
 
 ## Multimedia Server
 
